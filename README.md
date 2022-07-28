@@ -1,8 +1,7 @@
 # Welcome to my Thoughts
 
-Hello All. Ever heard of Euler?
-
-The guy was crazy. Way too crazy to realize this perfect-but-scary thing existed.
+Hello All. 
+Euler was crazy. I mean, how can you realize this exists. 
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
